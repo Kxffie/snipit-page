@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/snipit-page/static/css/main.964fdded.css",
+    "main.js": "/snipit-page/static/js/main.288eb57a.js",
+    "index.html": "/snipit-page/index.html",
+    "main.964fdded.css.map": "/snipit-page/static/css/main.964fdded.css.map",
+    "main.288eb57a.js.map": "/snipit-page/static/js/main.288eb57a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.288eb57a.js"
+  ]
+}
