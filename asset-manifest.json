@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/snipit-page/static/css/main.964fdded.css",
-    "main.js": "/snipit-page/static/js/main.288eb57a.js",
+    "main.css": "/snipit-page/static/css/main.12174d65.css",
+    "main.js": "/snipit-page/static/js/main.0f06a74b.js",
     "index.html": "/snipit-page/index.html",
-    "main.964fdded.css.map": "/snipit-page/static/css/main.964fdded.css.map",
-    "main.288eb57a.js.map": "/snipit-page/static/js/main.288eb57a.js.map"
+    "main.12174d65.css.map": "/snipit-page/static/css/main.12174d65.css.map",
+    "main.0f06a74b.js.map": "/snipit-page/static/js/main.0f06a74b.js.map"
   },
   "entrypoints": [
-    "static/css/main.964fdded.css",
-    "static/js/main.288eb57a.js"
+    "static/css/main.12174d65.css",
+    "static/js/main.0f06a74b.js"
   ]
 }
